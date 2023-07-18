@@ -36,3 +36,5 @@ Second Theme: https://raw.githubusercontent.com/FacelessVagrant/Discord-Theme/ma
 Third Theme: https://raw.githubusercontent.com/FacelessVagrant/Discord-Theme/master/Kirito.theme.css
 
 Once you paste one of the links discord should automatically apply the background and that's it!
+
+![Final](https://github.com/FacelessVagrant/Discord-Theme/blob/87c23b149c6b0601341cdf10729f72eeba255a9b/Screenshots/Screenshot%202023-07-18%20184129.png)
