@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Custom Discord themes
+# Custom Discord Themes by TJ
 
 Some of the themes I've done in the past
 
