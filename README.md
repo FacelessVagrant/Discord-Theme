@@ -20,9 +20,12 @@ You can use any of these for free!!
 ## Pricing
 
 Barebones Custom theme - $10
+
 You send me a picture and I make theme using that picture altering the colors to make them fit the background.
 
+
 Custom Discord Icon - $5 
+
 I personally make a custom discord icon to fit the current theme, below is an image of the icon in question. 
 
 ![Icon](https://github.com/FacelessVagrant/Discord-Theme/blob/842a6ea308e7652280f2fb191f6a1cb28169107f/Screenshots/Screenshot%202023-07-18%20185033.png)
