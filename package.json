@@ -10,8 +10,3 @@
     "test": "npm run clean && npm run test.build",
     "test.build": "sass --style=expanded --no-source-map hljs.scss:test/hljs.css main.scss:test/main.css"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ClearVision/ClearVision-v6.git"
-  },
-
