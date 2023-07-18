@@ -1,6 +1,6 @@
 {
-  "name": "clearvision",
-  "description": "Highly customizable theme for BetterDiscord.",
+  "name": "FacelessVagrnts Custom Themes",
+  "description": "I make themes for vencord and better discord.",
   "private": true,
   "scripts": {
     "build": "npm run clean && npm run build.sass",
@@ -14,26 +14,4 @@
     "type": "git",
     "url": "https://github.com/ClearVision/ClearVision-v6.git"
   },
-  "author": "Zerthox",
-  "contributors": [
-    "Leozard",
-    "Mentalscars",
-    "nihaals",
-    "NyxIsBad",
-    "OmgDani",
-    "untuned",
-    "xcruxiex"
-  ],
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/ClearVision/ClearVision-v6/issues"
-  },
-  "homepage": "https://clearvision.github.io",
-  "devDependencies": {
-    "autoprefixer": "^10.4.4",
-    "postcss-cli": "^9.1.0",
-    "prettier": "^2.6.2",
-    "rimraf": "^3.0.2",
-    "sass": "^1.49.11"
-  }
-}
+
