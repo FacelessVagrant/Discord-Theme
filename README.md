@@ -23,6 +23,7 @@ Barebones Custom theme - $10
 
 You send me a picture and I make theme using that picture altering the colors to make them fit the background.
 
+________________________________________________________________________________________________________________________
 
 Custom Discord Icon - $5 
 
