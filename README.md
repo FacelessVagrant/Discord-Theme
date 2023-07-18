@@ -1,4 +1,4 @@
-![image](https://github.com/FacelessVagrant/Discord-Theme/assets/126747692/75308e87-de24-483d-95c7-fa5807a6f607)
+
 <div align="center">
 
 # Custom Discord themes
@@ -27,7 +27,7 @@ Once you download [VencordInstaller.exe](https://github.com/Vencord/Installer/re
 
 Once discord is patched into vencord simply navigate to settings and down to the vencord section where you will find the themes tab. Click on the themes tab and paste one of the following https links into the box that says "Theme Links".
 
-![Theme Section](https://github.com/FacelessVagrant/Discord-Theme/blob/f877f0628b7965903bd2958368a8bd2a7faa155e/Screenshots/Screenshot%202023-07-18%20183028.png)
+![ThemeSelection](https://github.com/FacelessVagrant/Discord-Theme/assets/126747692/75308e87-de24-483d-95c7-fa5807a6f607)
 
 First Theme: https://raw.githubusercontent.com/FacelessVagrant/Discord-Theme/master/FacelessVagrant.theme.css
 
