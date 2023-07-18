@@ -1,58 +1,38 @@
-[release-badge]: https://img.shields.io/github/v/release/ClearVision/ClearVision-v6?include_prereleases&style=flat-square
-[release-link]: https://github.com/ClearVision/ClearVision-v6/releases
-[license-badge]: https://img.shields.io/github/license/ClearVision/ClearVision-v6?style=flat-square
-[license-link]: https://github.com/ClearVision/ClearVision-v6/blob/master/LICENSE
-[discord-badge]: https://discord.com/api/guilds/212324635356692500/widget.png?style=shield
-[discord-link]: https://clearvision.gitlab.io/join
-[issues-badge]: https://img.shields.io/github/issues/ClearVision/ClearVision-v6?style=flat-square
-[issues-link]: https://github.com/ClearVision/ClearVision-v6/issues
-[prs-badge]: https://img.shields.io/github/issues-pr/ClearVision/ClearVision-v6?style=flat-square
-[prs-link]: https://github.com/ClearVision/ClearVision-v6/pulls
-
+![image](https://github.com/FacelessVagrant/Discord-Theme/assets/126747692/75308e87-de24-483d-95c7-fa5807a6f607)
 <div align="center">
 
-# ClearVision v6
+# Custom Discord themes
 
-[![Releases][release-badge]][release-link]
-[![License][license-badge]][license-link]
-[![Discord Server][discord-badge]][discord-link]
-[![Issues][issues-badge]][issues-link]
-[![Pull Requests][prs-badge]][prs-link]
+Some of the themes I've done in the past
 
-![v6 Sapphire](https://github.com/ClearVision/ClearVision-v6/raw/master/screenshots/6-stable.4.7.9.png)
+![v1 FacelessVagrant](https://github.com/FacelessVagrant/Discord-Theme/blob/f877f0628b7965903bd2958368a8bd2a7faa155e/Screenshots/Screenshot%202023-07-18%20175100.png)
+
+![v1 Bjord](https://github.com/FacelessVagrant/Discord-Theme/blob/f877f0628b7965903bd2958368a8bd2a7faa155e/Screenshots/Screenshot%202023-07-18%20175132.png)
+
+![v1 Kirito](https://github.com/FacelessVagrant/Discord-Theme/blob/f877f0628b7965903bd2958368a8bd2a7faa155e/Screenshots/Screenshot%202023-07-18%20175457.png)
+
+You can use any of these for free!!
 
 </div>
 
-## Theme Editor
+## Pricing
 
-You are now able to customize the theme with a preview before downloading it to your computer.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-> [Theme Editor](https://bdeditor.dev/theme/clearvision)
+## Installation and Applying Themes
 
-_Thank you to @Gibbu to providing this._
+In order to use a custom theme you first need a discord client. I would recommend downloading [Vencord](https://github.com/Vendicated/Vencord) but something like better discord will work too.
 
-## Installing
+Once you download [VencordInstaller.exe](https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe) from this link or the previous one go ahead and run it and click the install button in the bottom left corner.
 
-Note: ClearVision doesn't actively support plugins (as in, we don't seek out and actively theme fixes to every new plugin). However, when a plugin is widely used, we try our best to stay compatible. 
+Once discord is patched into vencord simply navigate to settings and down to the vencord section where you will find the themes tab. Click on the themes tab and paste one of the following https links into the box that says "Theme Links".
 
-Download the theme file and move it into your [BetterDiscord](https://betterdiscord.app) themes folder:
+![Theme Section](https://github.com/FacelessVagrant/Discord-Theme/blob/f877f0628b7965903bd2958368a8bd2a7faa155e/Screenshots/Screenshot%202023-07-18%20183028.png)
 
-> [ClearVision_v6.theme.css](https://clearvision.gitlab.io/download/v6/latest)
+First Theme: https://raw.githubusercontent.com/FacelessVagrant/Discord-Theme/master/FacelessVagrant.theme.css
 
-## Building from source
+Second Theme: https://raw.githubusercontent.com/FacelessVagrant/Discord-Theme/master/Bjord.theme.css
 
-In order build the theme from source, you can simply run `npm install` to install all missing dependencies, and `npm run build` to compile the theme into the `/public` folder.
+Third Theme: https://raw.githubusercontent.com/FacelessVagrant/Discord-Theme/master/Kirito.theme.css
 
-### Dependencies
-
-- [sass](https://www.npmjs.com/package/sass)
-- [PostCSS Autoprefixer](https://www.npmjs.com/package/autoprefixer)
-- [PostCSS CLI](https://www.npmjs.com/package/postcss-cli)
-- [rimraf](https://www.npmjs.com/package/rimraf) (for cleanup)
-- [Prettier](https://www.npmjs.com/package/prettier) (code formatting)
-- _[DiscordSelectors](https://github.com/Zerthox/DiscordSelectors) (included in the `/lib` folder)_
-
-## Contributing
-
-You can run `npm run test` to compile the theme.
-The `main.css` file will be in the `/test` directory, which can then be copied into BetterDiscord's Custom CSS.
+Once you paste one of the links discord should automatically apply the background and that's it!
